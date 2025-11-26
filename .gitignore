@@ -1,0 +1,16 @@
+/.conda
+/node_modules
+/frontend/node_modules
+/backend/venv
+.env
+dist/
+build/
+.pyc
+backend/.env
+node_modules/
+pycache/
+.DS_Store
+.vscode/
+backend/__pycache__/
+frontend/dist/
+backend/app/__pycache__/
